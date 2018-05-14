@@ -1,0 +1,1109 @@
+{
+  "nodes": [
+    {
+      "nodeName": "datacite:Contributor",
+      "label": "DataCite:Contributor"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Paticipant",
+      "label": "Paticipant"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Submission",
+      "label": "Submission"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Properties",
+      "label": "Properties"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Distribution",
+      "label": "Distribution"
+    },
+    {
+      "nodeName": "prov:Agent",
+      "label": "Prov:Agent"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Aim",
+      "label": "Aim"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Intended_outcomes",
+      "label": "Intended outcomes"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Campaign",
+      "label": "Campaign"
+    },
+    {
+      "nodeName": "http://vgibox.eu/AreaOfInterest",
+      "label": "AreaOfInterest"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ProjectActivity",
+      "label": "ProjectActivity"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DataSet",
+      "label": "DataSet"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Consortium",
+      "label": "Consortium"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Party",
+      "label": "Party"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Organisation",
+      "label": "Organisation"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Contact",
+      "label": "Contact"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Project_contact",
+      "label": "Project contact"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Project_contact_email",
+      "label": "Project contact email"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Crowdfunder",
+      "label": "Crowdfunder"
+    },
+    {
+      "nodeName": "http://vgibox.eu/FundingSource",
+      "label": "FundingSource"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DataGatheringCampaign",
+      "label": "DataGatheringCampaign"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Output",
+      "label": "Output"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DataValidationCampaign",
+      "label": "DataValidationCampaign"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Dataset",
+      "label": "Dataset"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DatasetGeographicCoverage",
+      "label": "DatasetGeographicCoverage"
+    },
+    {
+      "nodeName": "http://vgibox.eu/EncodingLanguage",
+      "label": "EncodingLanguage"
+    },
+    {
+      "nodeName": "http://vgibox.eu/AccessRights",
+      "label": "AccessRights"
+    },
+    {
+      "nodeName": "http://vgibox.eu/URL",
+      "label": "URL"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Description",
+      "label": "Description"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DatasetName",
+      "label": "DatasetName"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ID_(GUID)",
+      "label": "ID (GUID)"
+    },
+    {
+      "nodeName": "http://vgibox.eu/AssociatedPublications",
+      "label": "AssociatedPublications"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DataQuality",
+      "label": "DataQuality"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DatasetTemporalCoverage",
+      "label": "DatasetTemporalCoverage"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Lineage",
+      "label": "Lineage"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DatasetScope",
+      "label": "DatasetScope"
+    },
+    {
+      "nodeName": "http://vgibox.eu/UpdateFrequency",
+      "label": "UpdateFrequency"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DateModified",
+      "label": "DateModified"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Status",
+      "label": "Status"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ProjectGeographicCoverage",
+      "label": "ProjectGeographicCoverage"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ProjectScope",
+      "label": "ProjectScope"
+    },
+    {
+      "nodeName": "http://vgibox.eu/License",
+      "label": "License"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DateDistributed",
+      "label": "DateDistributed"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DownloadURL",
+      "label": "DownloadURL"
+    },
+    {
+      "nodeName": "http://vgibox.eu/EUFrameworkProgramme",
+      "label": "EUFrameworkProgramme"
+    },
+    {
+      "nodeName": "http://vgibox.eu/FundingProgram",
+      "label": "FundingProgram"
+    },
+    {
+      "nodeName": "http://vgibox.eu/EuropeanUnion",
+      "label": "EuropeanUnion"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Topic",
+      "label": "Topic"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Funding_Programme_Description",
+      "label": "Funding Programme Description"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Funding_Program_Name",
+      "label": "Funding Program Name"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Funding_Program_ID",
+      "label": "Funding Program ID"
+    },
+    {
+      "nodeName": "http://vgibox.eu/GeographicAreaOfInterest",
+      "label": "GeographicAreaOfInterest"
+    },
+    {
+      "nodeName": "http://vgibox.eu/GeographicExtent",
+      "label": "GeographicExtent"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Hardware",
+      "label": "Hardware"
+    },
+    {
+      "nodeName": "http://vgibox.eu/HowToParticipate",
+      "label": "HowToParticipate"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ParticipationTask",
+      "label": "ParticipationTask"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Image",
+      "label": "Image"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Image_credit",
+      "label": "Image credit"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Individual",
+      "label": "Individual"
+    },
+    {
+      "nodeName": "http://vgibox.eu/InfrastructureFundingProgram",
+      "label": "InfrastructureFundingProgram"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Infrastucture",
+      "label": "Infrastucture"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Repository",
+      "label": "Repository"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Initiative",
+      "label": "Initiative"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Project",
+      "label": "Project"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Logo",
+      "label": "Logo"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Micro-Funder",
+      "label": "Micro-Funder"
+    },
+    {
+      "nodeName": "http://vgibox.eu/NUTSRegion",
+      "label": "NUTSRegion"
+    },
+    {
+      "nodeName": "http://vgibox.eu/AdministrativeUnit",
+      "label": "AdministrativeUnit"
+    },
+    {
+      "nodeName": "http://vgibox.eu/NationalFunder",
+      "label": "NationalFunder"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Observation",
+      "label": "Observation"
+    },
+    {
+      "nodeName": "http://vgibox.eu/RequiredSkills",
+      "label": "RequiredSkills"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Equipment",
+      "label": "Equipment"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Participant_Age",
+      "label": "Participant Age"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Difficulty",
+      "label": "Difficulty"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Name",
+      "label": "Name"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Gender",
+      "label": "Gender"
+    },
+    {
+      "nodeName": "http://vgibox.eu/YearOfBirth",
+      "label": "YearOfBirth"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Age",
+      "label": "Age"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Person",
+      "label": "Person"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Point",
+      "label": "Point"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Geometry",
+      "label": "Geometry"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Polygon",
+      "label": "Polygon"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ProjectFundingProgram",
+      "label": "ProjectFundingProgram"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Keywords",
+      "label": "Keywords"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Outcome",
+      "label": "Outcome"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Tags",
+      "label": "Tags"
+    },
+    {
+      "nodeName": "http://vgibox.eu/GUID",
+      "label": "GUID"
+    },
+    {
+      "nodeName": "http://vgibox.eu/StartDate",
+      "label": "StartDate"
+    },
+    {
+      "nodeName": "http://vgibox.eu/EndDate",
+      "label": "EndDate"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Duration",
+      "label": "Duration"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ProjectRecord",
+      "label": "ProjectRecord"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DateUpdated",
+      "label": "DateUpdated"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Language",
+      "label": "Language"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DateCreated",
+      "label": "DateCreated"
+    },
+    {
+      "nodeName": "http://vgibox.eu/ExternalID",
+      "label": "ExternalID"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Origin",
+      "label": "Origin"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Editor",
+      "label": "Editor"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Project_topic",
+      "label": "Project topic"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Software",
+      "label": "Software"
+    },
+    {
+      "nodeName": "http://vgibox.eu/SoftwareDevelopment",
+      "label": "SoftwareDevelopment"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DataCollectionMethod",
+      "label": "DataCollectionMethod"
+    },
+    {
+      "nodeName": "http://vgibox.eu/DateSubmitted",
+      "label": "DateSubmitted"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Call",
+      "label": "Call"
+    },
+    {
+      "nodeName": "http://vgibox.eu/UNRegion",
+      "label": "UNRegion"
+    },
+    {
+      "nodeName": "http://vgibox.eu/US_Federal_Sponsor",
+      "label": "US Federal Sponsor"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Volunteer",
+      "label": "Volunteer"
+    },
+    {
+      "nodeName": "http://vgibox.eu/Role",
+      "label": "Role"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "relationName": "NEW:_subClassOf"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "relationName": "Generates"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "relationName": "hasProperties"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "relationName": "ContributesTo"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "relationName": "sameClassAs"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "relationName": "hasAreaOfInterest"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "relationName": "contributes_(if_want_to_include_explicitly)"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "relationName": "hasAssociatedOrginisation"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "relationName": "hasProjectHost"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "relationName": "hasName"
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "relationName": "hasEMail"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 20,
+      "target": 8,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 11,
+      "target": 21,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 22,
+      "target": 8,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "relationName": "hasDatasetGeographicCoverage"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "relationName": "hasEncodingLanguage"
+    },
+    {
+      "source": 23,
+      "target": 26,
+      "relationName": "hasAccessRights"
+    },
+    {
+      "source": 23,
+      "target": 27,
+      "relationName": "hasWebpage"
+    },
+    {
+      "source": 23,
+      "target": 28,
+      "relationName": "hasDescription"
+    },
+    {
+      "source": 23,
+      "target": 29,
+      "relationName": "hasDatasetName"
+    },
+    {
+      "source": 23,
+      "target": 30,
+      "relationName": "hasID_(GUID)"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "relationName": "NEW:_hasSubmission"
+    },
+    {
+      "source": 23,
+      "target": 31,
+      "relationName": "NEW:_hasAssociatedPublications"
+    },
+    {
+      "source": 23,
+      "target": 32,
+      "relationName": "NEW:_hasDataQuality"
+    },
+    {
+      "source": 23,
+      "target": 33,
+      "relationName": "NEW:_hasDatasetTemporalCoverage"
+    },
+    {
+      "source": 23,
+      "target": 15,
+      "relationName": "NEW:_hasContact"
+    },
+    {
+      "source": 23,
+      "target": 34,
+      "relationName": "hasLineage"
+    },
+    {
+      "source": 23,
+      "target": 4,
+      "relationName": "hasDistribution"
+    },
+    {
+      "source": 23,
+      "target": 35,
+      "relationName": "hasDatasetScope"
+    },
+    {
+      "source": 23,
+      "target": 36,
+      "relationName": "hasUpdateFrequency"
+    },
+    {
+      "source": 23,
+      "target": 37,
+      "relationName": "hasDateModified"
+    },
+    {
+      "source": 23,
+      "target": 38,
+      "relationName": "hasStatus"
+    },
+    {
+      "source": 24,
+      "target": 39,
+      "relationName": "isPartOf"
+    },
+    {
+      "source": 35,
+      "target": 40,
+      "relationName": "isPartOf"
+    },
+    {
+      "source": 4,
+      "target": 41,
+      "relationName": "hasLicense"
+    },
+    {
+      "source": 4,
+      "target": 42,
+      "relationName": "hasDateDistributed"
+    },
+    {
+      "source": 4,
+      "target": 43,
+      "relationName": "hasDownloadURL"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 46,
+      "target": 19,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "relationName": "hasTopic"
+    },
+    {
+      "source": 45,
+      "target": 19,
+      "relationName": "hasFundingSource"
+    },
+    {
+      "source": 45,
+      "target": 48,
+      "relationName": "hasDescription"
+    },
+    {
+      "source": 45,
+      "target": 49,
+      "relationName": "hasName"
+    },
+    {
+      "source": 45,
+      "target": 50,
+      "relationName": "hasIdentifyer"
+    },
+    {
+      "source": 19,
+      "target": 45,
+      "relationName": "hasFundingProgram"
+    },
+    {
+      "source": 51,
+      "target": 51,
+      "relationName": "contains"
+    },
+    {
+      "source": 51,
+      "target": 31,
+      "relationName": "hasTargetLocation"
+    },
+    {
+      "source": 52,
+      "target": 51,
+      "relationName": "sameAs"
+    },
+    {
+      "source": 53,
+      "target": 21,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "relationName": "explains"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "relationName": "hasCredit"
+    },
+    {
+      "source": 58,
+      "target": 1,
+      "relationName": "sameAs"
+    },
+    {
+      "source": 58,
+      "target": 14,
+      "relationName": "hasAffiliation"
+    },
+    {
+      "source": 58,
+      "target": 13,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 59,
+      "target": 45,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "relationName": "hasRepository"
+    },
+    {
+      "source": 60,
+      "target": 60,
+      "relationName": "federates"
+    },
+    {
+      "source": 60,
+      "target": 59,
+      "relationName": "hasFundingProgram"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "relationName": "collectionOf"
+    },
+    {
+      "source": 64,
+      "target": 56,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 65,
+      "target": 19,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 68,
+      "target": 19,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 69,
+      "target": 2,
+      "relationName": "isPartOf"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 14,
+      "target": 12,
+      "relationName": "memberOf"
+    },
+    {
+      "source": 55,
+      "target": 70,
+      "relationName": "requiresSkills"
+    },
+    {
+      "source": 55,
+      "target": 71,
+      "relationName": "requiresEquipment"
+    },
+    {
+      "source": 55,
+      "target": 72,
+      "relationName": "hasTargetAge"
+    },
+    {
+      "source": 55,
+      "target": 73,
+      "relationName": "hasDifficulty"
+    },
+    {
+      "source": 13,
+      "target": 62,
+      "relationName": "hasInitiavite"
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "relationName": "hasContact"
+    },
+    {
+      "source": 13,
+      "target": 74,
+      "relationName": "hasName"
+    },
+    {
+      "source": 1,
+      "target": 75,
+      "relationName": "hasGender"
+    },
+    {
+      "source": 1,
+      "target": 76,
+      "relationName": "hasYearOfBith"
+    },
+    {
+      "source": 1,
+      "target": 77,
+      "relationName": "hasAge"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "relationName": "participatesIn"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 78,
+      "target": 58,
+      "relationName": "sameAs"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 81,
+      "target": 79,
+      "relationName": "hasCentroid"
+    },
+    {
+      "source": 81,
+      "target": 80,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 63,
+      "target": 10,
+      "relationName": "hasActivity"
+    },
+    {
+      "source": 63,
+      "target": 60,
+      "relationName": "usesInfrastructure"
+    },
+    {
+      "source": 63,
+      "target": 13,
+      "relationName": "hasParty"
+    },
+    {
+      "source": 63,
+      "target": 82,
+      "relationName": "hasFundingProgram"
+    },
+    {
+      "source": 63,
+      "target": 56,
+      "relationName": "isIllustradedBy"
+    },
+    {
+      "source": 63,
+      "target": 83,
+      "relationName": "hasKeyword_(free_text)"
+    },
+    {
+      "source": 63,
+      "target": 6,
+      "relationName": "hasAim"
+    },
+    {
+      "source": 63,
+      "target": 84,
+      "relationName": "hasOutcome"
+    },
+    {
+      "source": 63,
+      "target": 85,
+      "relationName": "hasTag"
+    },
+    {
+      "source": 63,
+      "target": 51,
+      "relationName": "hasAreaOfInterest"
+    },
+    {
+      "source": 63,
+      "target": 28,
+      "relationName": "hasDescription"
+    },
+    {
+      "source": 63,
+      "target": 74,
+      "relationName": "hasName"
+    },
+    {
+      "source": 63,
+      "target": 15,
+      "relationName": "hasProjectContact"
+    },
+    {
+      "source": 63,
+      "target": 27,
+      "relationName": "hasWebPage"
+    },
+    {
+      "source": 63,
+      "target": 86,
+      "relationName": "hasIdentifyer"
+    },
+    {
+      "source": 63,
+      "target": 87,
+      "relationName": "hasStartDate"
+    },
+    {
+      "source": 63,
+      "target": 88,
+      "relationName": "hasEndDate"
+    },
+    {
+      "source": 63,
+      "target": 38,
+      "relationName": "hasStatus"
+    },
+    {
+      "source": 63,
+      "target": 89,
+      "relationName": "hasDuration"
+    },
+    {
+      "source": 10,
+      "target": 55,
+      "relationName": "includesParticipatonTasks"
+    },
+    {
+      "source": 10,
+      "target": 21,
+      "relationName": "produces"
+    },
+    {
+      "source": 82,
+      "target": 45,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 90,
+      "target": 63,
+      "relationName": "describes"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "relationName": "wasLastUpdated"
+    },
+    {
+      "source": 90,
+      "target": 92,
+      "relationName": "isWrittenInLanguage"
+    },
+    {
+      "source": 90,
+      "target": 93,
+      "relationName": "hasCreationDate"
+    },
+    {
+      "source": 90,
+      "target": 86,
+      "relationName": "hasIdentifyer"
+    },
+    {
+      "source": 90,
+      "target": 94,
+      "relationName": "hasExternalID"
+    },
+    {
+      "source": 90,
+      "target": 95,
+      "relationName": "hasOrigin"
+    },
+    {
+      "source": 90,
+      "target": 96,
+      "relationName": "hasEditor"
+    },
+    {
+      "source": 97,
+      "target": 85,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 61,
+      "target": 4,
+      "relationName": "Stores"
+    },
+    {
+      "source": 61,
+      "target": 2,
+      "relationName": "Stores"
+    },
+    {
+      "source": 61,
+      "target": 23,
+      "relationName": "Stores"
+    },
+    {
+      "source": 98,
+      "target": 21,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 99,
+      "target": 10,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 2,
+      "target": 100,
+      "relationName": "NEW:_hasDataCollectionMethod"
+    },
+    {
+      "source": 2,
+      "target": 101,
+      "relationName": "hasDateSubmitted"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "relationName": "isPrimarySourceFor"
+    },
+    {
+      "source": 47,
+      "target": 102,
+      "relationName": "hasCall"
+    },
+    {
+      "source": 103,
+      "target": 67,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 104,
+      "target": 68,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 105,
+      "target": 1,
+      "relationName": "subClassOf"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "relationName": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "relationName": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 106,
+      "relationName": "hasRole"
+    },
+    {
+      "source": 5,
+      "target": 106,
+      "relationName": "hasRole"
+    }
+  ]
+}

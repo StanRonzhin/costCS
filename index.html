@@ -1,0 +1,49 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- D3 source -->
+    <script src="d3.min.js"></script>
+
+    <!-- Jquery for search field -->
+    <script src="jquery.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <script src="bootstrap3-typeahead.min.js"></script>
+
+    <!-- Font awesome -->
+    <link rel="stylesheet" type="text/css" href="font-awesome.min.css">
+
+    <!-- Context menu -->
+    <script src="jquery.ui.position.min.js"></script>
+    <script src="jquery.contextMenu.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="jquery.contextMenu.min.css">
+
+    <!-- Concept map scripts -->
+    <script src="forced_graph.js"></script>
+    <script src="search.js"></script>
+
+    <!-- Custom styles-->
+    <link rel="stylesheet" type="text/css" href="index_d3.css">
+</head>
+<body>
+
+<div id="graph_container_div">
+    <canvas id="graph_container_canvas"></canvas>
+</div>
+
+<div id="search-div" class="button-container">
+    <input id="search" title="Search" class="form-control" autocomplete="off">
+</div>
+
+<div id="readme-button-div" class="button-container">
+    <button id="readme-button" class="btn"
+            onclick="window.open('readme.html', 'Readme', 'location=no,status=no,width=500,height=500,top=100,left=100');">
+        Read me
+    </button>
+</div>
+
+</body>
+</html>
