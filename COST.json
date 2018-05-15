@@ -682,11 +682,6 @@
     },
     {
       "source": 51,
-      "target": 51,
-      "relationName": "contains"
-    },
-    {
-      "source": 51,
       "target": 31,
       "relationName": "hasTargetLocation"
     },
@@ -734,11 +729,6 @@
       "source": 60,
       "target": 61,
       "relationName": "hasRepository"
-    },
-    {
-      "source": 60,
-      "target": 60,
-      "relationName": "federates"
     },
     {
       "source": 60,
